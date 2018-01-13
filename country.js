@@ -1,4 +1,4 @@
-var c = {
+var cb = {
   A: {
     list: [
       {name: '阿鲁巴(荷)', language: ['荷兰语', '英语']},
